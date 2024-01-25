@@ -15,7 +15,7 @@ int main() {
 		cout<<"Podaj liczby ktore chcesz dodac i zaakceptuj przyciskiem ENTER, aby zakonczyc podawanie liczb nie podawaj nic i wcisnij enter: ";
 		buffer=-1;
 		while(buffer)
-
+	//komentarz
 	}
 	else if(buffer=="odejmowanie") {
 	}
